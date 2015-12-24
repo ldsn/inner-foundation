@@ -1,1 +1,1 @@
-[账目](https://github.com/ldsn/inner-foundation/wiki)
+[账目](https://github.com/ldsn/inner-foundation/blob/master/account.md)
